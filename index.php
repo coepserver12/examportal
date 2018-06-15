@@ -47,6 +47,7 @@ http://www.tooplate.com/view/2078-adventure
        <div class="col-md-4 col-md-offset-4 col-lg-4 col-lg-offset-4 col-sm-10 col-xs-10 box">
           <div class="col-xs-12 col-ms-12 col-md-12 col-lg-12 Login_box">              
               <form class="col-md-10 col-lg-10 col-md-offset-1 col-lg-offset-1 form1">
+		      <h1> Login </h1>
                    <br/>
                    <input type="text" class="form-control" placeholder="username">
                    <br/>
