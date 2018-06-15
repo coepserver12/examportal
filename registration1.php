@@ -39,6 +39,7 @@
     <fieldset>
         <div class="border">
         <form id="Register1" method="post" action="registrationconn.php">
+            <h1> Registration </h1>
             <div class="form-group">
                 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 input-group">
                     <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
